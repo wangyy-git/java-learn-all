@@ -20,6 +20,8 @@
 
     <modules>
         <module>redis-learn</module>
+        <module>springmvc-learn</module>
+        <module>spring-boot-learn</module>
     </modules>
 
     <build>
